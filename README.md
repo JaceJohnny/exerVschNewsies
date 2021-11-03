@@ -2,11 +2,11 @@
 
 ## Summary of Steps to Complete (See corresponding sections below.)
 
-- [ ] Fork this assignment so you can work on your own copy.
-- [ ] Build the page file(s) in VSCode or an IDE of your choice.
-- [ ] Push your changes back to your GitHub repository.
-- [ ] Turn on GitHub pages for your repository so your site can be viewed in a browser directly.
-- [ ] Turn in a link to your GitHub repository and your GitHub Pages site for this assignment in Canvas.
+- [X] Fork this assignment so you can work on your own copy.
+- [X] Build the page file(s) in VSCode or an IDE of your choice.
+- [X] Push your changes back to your GitHub repository.
+- [X] Turn on GitHub pages for your repository so your site can be viewed in a browser directly.
+- [X] Turn in a link to your GitHub repository and your GitHub Pages site for this assignment in Canvas.
 
 ## Link to assignment description
 
